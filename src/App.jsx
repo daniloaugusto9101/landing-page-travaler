@@ -1,10 +1,9 @@
-import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
   return (
     <div>
-      <h2 className="text-red-700">Teste</h2>
+      <h1 className="text-red-700">Teste</h1>
     </div>
   );
 }
